@@ -1,0 +1,61 @@
+Food,Category,SubCategory,ServingSize,ServingUnit,Calories_kcal,Protein_g,Carbs_g,Fat_g,Fiber_g,Sugar_g,Iron_mg,Calcium_mg,VitaminC_mg,VitaminD_IU,VitaminB12_mcg,Magnesium_mg,Potassium_mg,Zinc_mg,Folate_mcg,Sodium_mg,Vegetarian,Eggetarian,NonVegetarian,HighProtein,HighFiber,HighIron,Dairy,Notes
+White Rice,Grains and Cereals,Rice,100,g,130,2.7,28.2,0.3,0.4,0.1,0.2,10,0.0,0,0.0,12,35,0.5,8,1,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Staple grain; low fiber; refined carb source
+Brown Rice,Grains and Cereals,Rice,100,g,123,2.7,25.6,1.0,1.8,0.4,0.5,10,0.0,0,0.0,43,79,0.6,9,1,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Higher fiber and magnesium than white rice
+Oats,Grains and Cereals,Cereal,100,g,389,16.9,66.3,6.9,10.6,0.0,4.7,54,0.0,0,0.0,177,429,3.9,56,2,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,High beta-glucan fiber; supports cholesterol management
+Whole Wheat Flour,Grains and Cereals,Flour,100,g,340,12.1,71.2,1.7,11.2,0.4,3.9,34,0.0,0,0.0,137,363,2.6,43,2,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Base for roti; high fiber whole grain; rich in magnesium
+Semolina,Grains and Cereals,Flour,100,g,360,12.7,72.8,1.1,3.9,0.8,1.2,17,0.0,0,0.0,47,186,1.1,72,1,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Used for upma and halwa; moderate fiber; good folate source
+Poha,Grains and Cereals,Cereal,100,g,369,6.6,81.6,1.1,1.5,0.0,2.7,14,0.0,0,0.0,39,116,0.6,10,10,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Quick breakfast grain; often iron-fortified variety
+Roti,Indian Breads,Flatbread,100,g,297,9.2,58.6,4.6,7.8,0.5,2.9,29,0.0,0,0.0,78,244,1.8,30,237,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Staple Indian bread; high fiber; typically cooked with ghee
+White Bread,Indian Breads,Leavened Bread,100,g,265,8.9,51.0,3.2,2.7,5.0,2.7,151,0.0,0,0.0,23,115,0.7,58,491,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Refined grain; high sodium; often iron-fortified
+Paratha,Indian Breads,Flatbread,100,g,326,8.3,48.5,11.2,4.6,0.6,2.4,27,0.0,0,0.0,55,185,1.3,24,382,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Higher fat than roti due to oil; popular breakfast item
+Puri,Indian Breads,Deep-fried Bread,100,g,399,8.5,52.2,17.3,3.1,0.3,1.8,21,0.0,0,0.0,35,146,0.9,18,290,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Deep-fried bread; high calorie; festive food
+Naan,Indian Breads,Leavened Bread,100,g,310,10.5,56.2,5.9,2.1,3.2,1.8,48,0.0,0,0.0,25,130,0.8,38,567,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Leavened bread; high sodium; typically made with refined flour
+Moong Dal,Pulses and Legumes,Dal,100,g,105,7.0,19.0,0.4,4.1,2.0,1.4,27,1.0,0,0.0,36,266,0.8,159,2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Light and easy to digest; high folate content
+Toor Dal,Pulses and Legumes,Dal,100,g,116,7.2,20.7,0.4,4.7,2.5,1.6,24,0.5,0,0.0,33,305,0.9,149,3,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Most common dal in Indian cooking; high folate and potassium
+Chana Dal,Pulses and Legumes,Dal,100,g,164,8.9,27.4,2.7,7.6,4.8,1.9,42,1.0,0,0.0,48,356,1.5,178,7,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,High fiber legume; good satiety; used in dal and snacks
+Rajma,Pulses and Legumes,Legume,100,g,127,8.7,22.8,0.5,6.4,0.3,2.2,28,1.2,0,0.0,45,403,1.4,130,2,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,High fiber; popular North Indian dish; rich in potassium
+Chole,Pulses and Legumes,Legume,100,g,164,8.9,27.4,2.6,7.6,4.8,2.9,49,1.3,0,0.0,48,291,1.5,172,7,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,High iron legume; good protein and fiber source
+Masoor Dal,Pulses and Legumes,Dal,100,g,116,9.0,20.1,0.4,7.9,1.8,3.3,19,1.5,0,0.0,36,369,1.3,181,2,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,High iron and folate; valuable for anemia prevention
+Urad Dal,Pulses and Legumes,Dal,100,g,105,7.1,18.5,0.6,3.0,0.5,1.8,31,0.0,0,0.0,54,283,1.1,128,4,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Used in idli and dosa batter; good calcium among dals
+Lobia,Pulses and Legumes,Legume,100,g,116,7.7,20.8,0.5,6.5,3.3,2.5,24,0.4,0,0.0,45,278,1.1,208,4,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,High folate; good fiber content; used in curries
+Whole Milk,Dairy,Milk,100,ml,61,3.2,4.8,3.3,0.0,4.8,0.0,119,0.9,40,0.4,11,150,0.4,5,43,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,Good calcium and B12 source; key dairy staple in India
+Paneer,Dairy,Cheese,100,g,265,18.3,1.2,20.8,0.0,1.2,0.5,480,0.0,25,0.7,8,76,1.0,14,12,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,Rich in calcium and protein; staple vegetarian protein source
+Curd,Dairy,Fermented Dairy,100,g,61,3.5,4.7,3.3,0.0,4.7,0.1,121,0.5,0,0.3,12,155,0.5,7,36,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,Probiotic benefits; good for gut health; daily dietary staple
+Ghee,Dairy,Fat,100,g,899,0.3,0.0,99.5,0.0,0.0,0.1,4,0.0,180,0.1,0,5,0.0,0,2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,Used for cooking and tempering; very high fat; contains Vitamin D
+Buttermilk,Dairy,Fermented Dairy,100,ml,40,3.3,4.8,0.9,0.0,4.8,0.1,116,0.2,0,0.2,11,151,0.4,5,105,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,Cooling digestive drink; lower fat than full milk
+Processed Cheese,Dairy,Cheese,100,g,313,17.3,6.2,25.2,0.0,3.4,0.5,583,0.0,24,0.8,22,93,2.8,18,1041,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,High calcium and sodium; high fat; use in moderation
+Spinach,Vegetables,Leafy Green,100,g,23,2.9,3.6,0.4,2.2,0.4,2.7,99,28.1,0,0.0,79,558,0.5,194,79,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Very high folate and iron; good Vitamin C source
+Potato,Vegetables,Root Vegetable,100,g,87,1.9,20.1,0.1,1.8,0.9,0.3,5,13.0,0,0.0,22,379,0.3,10,4,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,High potassium; good energy source; versatile vegetable
+Tomato,Vegetables,Fruit Vegetable,100,g,18,0.9,3.9,0.2,1.2,2.6,0.3,10,13.7,0,0.0,11,237,0.2,15,5,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Rich in lycopene; used daily in Indian cooking
+Onion,Vegetables,Bulb Vegetable,100,g,40,1.1,9.3,0.1,1.7,4.2,0.2,23,7.4,0,0.0,10,146,0.2,19,4,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Base ingredient in Indian cooking; quercetin source
+Carrot,Vegetables,Root Vegetable,100,g,41,0.9,9.6,0.2,2.8,4.7,0.3,33,5.9,0,0.0,12,320,0.2,19,69,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,High beta-carotene; beneficial for eye health
+Bottle Gourd,Vegetables,Gourd,100,g,15,0.6,3.4,0.1,0.5,1.9,0.2,26,8.5,0,0.0,11,150,0.1,6,2,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Very low calorie; high water content; good for weight management
+Cauliflower,Vegetables,Cruciferous,100,g,25,1.9,4.9,0.3,2.3,1.9,0.4,22,28.2,0,0.0,15,142,0.3,57,15,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Good Vitamin C source; used in aloo gobi
+Eggplant,Vegetables,Fruit Vegetable,100,g,35,0.8,8.7,0.2,2.5,3.5,0.2,6,1.3,0,0.0,11,123,0.1,14,1,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Used in baingan bharta and curries; moderate fiber
+Green Peas,Vegetables,Legume Vegetable,100,g,84,5.4,15.6,0.4,5.5,5.7,1.5,27,14.2,0,0.0,33,271,1.0,65,3,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,High fiber and protein among vegetables
+Bitter Gourd,Vegetables,Gourd,100,g,17,1.0,3.7,0.2,2.8,1.7,0.4,19,56.0,0,0.0,17,296,0.8,72,5,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Exceptional Vitamin C; beneficial for blood sugar management
+Banana,Fruits,Tropical Fruit,100,g,89,1.1,22.8,0.3,2.6,12.2,0.3,5,8.7,0,0.0,27,358,0.2,20,1,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,High potassium; good energy for workouts; common daily fruit
+Apple,Fruits,Temperate Fruit,100,g,52,0.3,13.8,0.2,2.4,10.4,0.1,6,4.6,0,0.0,5,107,0.0,3,1,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Rich in quercetin and pectin fiber; common everyday fruit
+Mango,Fruits,Tropical Fruit,100,g,60,0.8,15.0,0.4,1.6,13.7,0.1,11,36.4,0,0.0,10,168,0.1,43,1,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,King of fruits; high Vitamin C and beta-carotene
+Orange,Fruits,Citrus Fruit,100,g,47,0.9,11.8,0.1,2.4,9.4,0.1,40,53.2,0,0.0,10,181,0.1,30,0,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Excellent Vitamin C source; good for immunity
+Guava,Fruits,Tropical Fruit,100,g,68,2.6,14.3,1.0,5.4,8.9,0.3,18,228.3,0,0.0,22,417,0.2,49,2,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,Highest Vitamin C among common fruits; very high fiber
+Papaya,Fruits,Tropical Fruit,100,g,43,0.5,10.8,0.3,1.7,7.8,0.1,20,61.8,0,0.0,21,182,0.1,37,8,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,High Vitamin C and digestive enzymes; good for digestion
+Pomegranate,Fruits,Tropical Fruit,100,g,83,1.7,18.7,1.2,4.0,13.7,0.3,10,10.2,0,0.0,12,236,0.4,38,3,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Rich in antioxidants; high potassium; anti-inflammatory properties
+Egg,Eggs,Whole Egg,100,g,155,13.0,1.1,10.6,0.0,1.1,1.8,50,0.0,87,1.1,10,126,1.1,44,124,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Complete protein; good Vitamin D and B12 source
+Chicken Breast,Meat and Fish,Poultry,100,g,165,31.0,0.0,3.6,0.0,0.0,0.7,15,0.0,4,0.3,29,256,1.0,4,74,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,Lean protein source; low fat; ideal for muscle building
+Chicken Thigh,Meat and Fish,Poultry,100,g,209,26.0,0.0,11.1,0.0,0.0,0.9,12,0.0,4,0.3,23,225,2.5,5,88,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,More flavorful than breast; higher fat content
+Rohu Fish,Meat and Fish,Freshwater Fish,100,g,97,16.6,0.0,2.9,0.0,0.0,1.0,650,0.0,62,1.4,27,320,0.7,12,62,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,Common freshwater fish; excellent Vitamin D; calcium-rich with bones
+Pomfret,Meat and Fish,Saltwater Fish,100,g,116,20.2,0.0,3.5,0.0,0.0,0.8,78,0.0,55,1.9,32,370,0.6,9,68,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,Popular coastal fish; excellent B12 and Vitamin D source
+Almonds,Nuts and Seeds,Nut,100,g,579,21.2,21.6,49.9,12.5,4.4,3.7,264,0.0,0,0.0,270,733,3.1,44,1,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,Excellent magnesium and calcium; high healthy fat; good daily snack
+Peanuts,Nuts and Seeds,Nut,100,g,567,25.8,16.1,49.2,8.5,4.7,2.3,92,0.0,0,0.0,168,705,3.3,145,6,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,Affordable protein source; common Indian snack; high folate
+Cashews,Nuts and Seeds,Nut,100,g,553,18.2,30.2,43.9,3.3,5.9,6.7,37,0.5,0,0.0,292,660,5.8,25,12,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,High iron and zinc; widely used in Indian cooking and desserts
+Sesame Seeds,Nuts and Seeds,Seed,100,g,573,17.7,23.4,49.7,11.8,0.3,14.6,975,0.0,0,0.0,351,468,7.8,97,11,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,Exceptionally high calcium and iron; used in chikki and til ladoo
+Flaxseeds,Nuts and Seeds,Seed,100,g,534,18.3,28.9,42.2,27.3,1.5,5.7,255,0.6,0,0.0,392,813,4.3,87,30,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,Highest dietary fiber seed; rich in Omega-3 ALA
+Idli,Indian Dishes,South Indian,100,g,58,2.0,12.0,0.1,0.9,0.5,0.5,12,0.0,0,0.0,10,55,0.3,14,168,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Light fermented breakfast; easy to digest; low fat
+Dosa,Indian Dishes,South Indian,100,g,165,3.4,30.5,4.0,1.0,0.5,0.8,14,0.0,0,0.0,18,88,0.4,22,345,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Fermented rice and lentil crepe; popular South Indian breakfast
+Sambar,Indian Dishes,South Indian,100,g,52,2.8,7.9,1.0,2.1,2.6,1.1,22,8.5,0,0.0,18,198,0.4,42,230,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Dal-based vegetable stew; good folate; South Indian staple
+Palak Paneer,Indian Dishes,North Indian,100,g,138,7.0,5.2,10.3,1.8,1.5,2.3,217,9.5,0,0.4,34,215,0.7,78,210,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,Iron-rich greens with calcium from paneer; nutritionally dense
+Chicken Curry,Indian Dishes,North Indian,100,g,148,14.2,4.8,8.1,0.8,1.8,1.1,22,3.5,2,0.2,22,278,1.5,14,420,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Popular Indian dish; moderate protein; high sodium
+Dal Makhani,Indian Dishes,North Indian,100,g,130,6.5,15.1,5.4,4.1,1.2,2.8,48,1.5,0,0.1,42,310,1.1,92,290,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Black lentil and butter dish; high fiber and iron; North Indian classic
+Chicken Biryani,Indian Dishes,Rice Dish,100,g,188,11.2,23.5,5.8,0.7,1.3,0.9,21,1.0,2,0.2,24,205,1.1,12,490,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Complete rice meal with chicken; festive dish; high sodium
+Khichdi,Indian Dishes,Comfort Food,100,g,97,4.2,17.9,1.4,1.8,0.6,0.8,19,0.5,0,0.0,19,145,0.6,44,215,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Comfort food; easy to digest; recommended for illness recovery
